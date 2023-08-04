@@ -1,0 +1,15 @@
+/home/kerry91warnes/CSCLASS/bin/Debug/net7.0/CSCLASS
+/home/kerry91warnes/CSCLASS/bin/Debug/net7.0/CSCLASS.deps.json
+/home/kerry91warnes/CSCLASS/bin/Debug/net7.0/CSCLASS.runtimeconfig.json
+/home/kerry91warnes/CSCLASS/bin/Debug/net7.0/CSCLASS.dll
+/home/kerry91warnes/CSCLASS/bin/Debug/net7.0/CSCLASS.pdb
+/home/kerry91warnes/CSCLASS/obj/Debug/net7.0/CSCLASS.csproj.AssemblyReference.cache
+/home/kerry91warnes/CSCLASS/obj/Debug/net7.0/CSCLASS.GeneratedMSBuildEditorConfig.editorconfig
+/home/kerry91warnes/CSCLASS/obj/Debug/net7.0/CSCLASS.AssemblyInfoInputs.cache
+/home/kerry91warnes/CSCLASS/obj/Debug/net7.0/CSCLASS.AssemblyInfo.cs
+/home/kerry91warnes/CSCLASS/obj/Debug/net7.0/CSCLASS.csproj.CoreCompileInputs.cache
+/home/kerry91warnes/CSCLASS/obj/Debug/net7.0/CSCLASS.dll
+/home/kerry91warnes/CSCLASS/obj/Debug/net7.0/refint/CSCLASS.dll
+/home/kerry91warnes/CSCLASS/obj/Debug/net7.0/CSCLASS.pdb
+/home/kerry91warnes/CSCLASS/obj/Debug/net7.0/CSCLASS.genruntimeconfig.cache
+/home/kerry91warnes/CSCLASS/obj/Debug/net7.0/ref/CSCLASS.dll
